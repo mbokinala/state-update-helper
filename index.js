@@ -11,7 +11,7 @@ function update(original, updates) {
             case "set":
                 original[updateProps[i]] = updateVal
                 break;
-            case "add":
+            case "inc":
                 original[updateProps[i]] = original[updateProps[i]] + updateVal
                 break;
             case "push":

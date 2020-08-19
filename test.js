@@ -15,7 +15,7 @@ var copy = update(original, {
 });
 
 var copy2 = update(copy, {
-    aliases: { concat: ["Big J", "J-Man"] }
+    aliases: { concat: ["Big J", "J-Man"] },
 });
 
 console.log(copy2)
