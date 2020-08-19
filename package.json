@@ -1,6 +1,6 @@
 {
   "name": "state-update-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is used to update objects that are immutable. Its main usage is in updating complex react states",
   "main": "index.js",
   "scripts": {
