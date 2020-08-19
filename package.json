@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "immutability",
+    "states",
+    "update"
+  ],
   "author": "Manav Bokinala",
   "license": "ISC",
-  "type": "module"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbokinala/state-update-helper.git"
+  },
+  "type": "module",
+  "homepage": "https://github.com/mbokinala/state-update-helper#readme"
 }
