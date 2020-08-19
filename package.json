@@ -1,0 +1,12 @@
+{
+  "name": "state-update-helper",
+  "version": "1.0.0",
+  "description": "This package is used to update objects that are immutable. Its main usage is in updating complex react states",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manav Bokinala",
+  "license": "ISC",
+  "type": "module"
+}
